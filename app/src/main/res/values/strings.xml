@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReadWriteExternalStorageWithRuntimePermission</string>
+    <string name="read_permission">You need: Read permission</string>
+</resources>
